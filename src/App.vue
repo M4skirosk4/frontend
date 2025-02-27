@@ -1,6 +1,6 @@
 <template>
     <div>
-      <h1>Microservicios con Vue</h1>
+      <h1>Los microservicios de Erik</h1>
       <button @click="consultarMicroservicio1">Microservicio 1</button>
       <input type="text" v-model="mensaje1" readonly />
   
