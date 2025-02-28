@@ -2,10 +2,10 @@
     <div>
       <h1>Los microservicios de Erik</h1>
       <button @click="consultarMicroservicio1">Microservicio 1</button>
-      <input type="text" v-model="mensaje1" readonly />
+      <input type="text" v-model="mensaje1" readonly id = "mv4289398rwq9" />
   
       <button @click="consultarMicroservicio2">Microservicio 2</button>
-      <input type="text" v-model="mensaje2" readonly />
+      <input type="text" v-model="mensaje2" readonly id = "f9n243fqef4wn" />
     </div>
   </template>
   
